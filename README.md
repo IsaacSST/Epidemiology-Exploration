@@ -1,2 +1,2 @@
 # Epidemiology-Exploration
-Implementing models in epidemiology with python
+Exploring models in epidemiology with python
